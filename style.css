@@ -18,7 +18,7 @@ h1 {
     padding: 20px;
 }
 
-.display {
+.div-display {
     display: inline-block;
 }
 
@@ -44,4 +44,8 @@ h1 {
 
 a {
     color: white;
+}
+
+p {
+    width: 80%;
 }
