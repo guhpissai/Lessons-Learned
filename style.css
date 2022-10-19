@@ -18,7 +18,9 @@ body {
 .align-to-center-image {
     align-items: center;
     margin: auto;
-    width: 90%;
+    width: 25%;
+    text-align: center;
+    margin-bottom: 25px;
 }
 
 /* .div-margin {
@@ -28,6 +30,11 @@ body {
 h1 {
     text-align: center;
     color: white;
+}
+
+h2 {
+    border-bottom: 1px black solid;
+
 }
 
 #cabecalho {
@@ -45,6 +52,7 @@ h1 {
     width: 410px;
     border-radius: 4px;
     box-shadow: 1px 1px 5px 1px;
+    margin-bottom: 50px;
 }
 
 .edid-image {
