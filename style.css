@@ -18,24 +18,26 @@ h1 {
     padding: 20px;
 }
 
+.display {
+    display: inline-block;
+}
+
+.div-section {
+    background-color: rgba(43, 134, 96, 0.521);
+    width: 410px;
+    border-radius: 8px;
+}
+
 .edid-image {
     width: 200px;
     height: 250px;
     object-fit: cover;
 }
 
-#licoes_aprendidas {
-    display: inline-block;
-}
-
-#licoes_a_aprender {
-    display: inline-block;
-}
-
 #rodape {
+    position: absolute;
     bottom: 0;
     background-color: rgb(43, 134, 96);
-    padding-right: 100%;
     padding-top: 40px;
     width: 100%;
 }
