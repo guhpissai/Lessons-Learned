@@ -13,6 +13,7 @@ body {
     align-items: center;
     margin: auto;
     width: 825px;
+    margin-bottom: 40px;
 }
 
 .align-to-center-image {
@@ -34,7 +35,10 @@ h1 {
 
 h2 {
     border-bottom: 1px black solid;
+}
 
+h3 {
+    display: inline;
 }
 
 #cabecalho {
