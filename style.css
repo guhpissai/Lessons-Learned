@@ -1,3 +1,15 @@
 body {
     background-color: rgb(253, 251, 251);
 }
+
+#cabecalho {
+    top: 0;
+    border: 3px solid black;
+}
+
+.edid-image {
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+    
+}
