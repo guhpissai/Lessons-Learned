@@ -3,11 +3,19 @@ body {
     margin: auto;
 }
 
+.div-margin {
+    margin-left: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
 #cabecalho {
     top: 0;
-    border: 3px solid black;
     background-color: rgb(43, 134, 96);
-    padding-bottom: 50px;
+    padding: 20px;
 }
 
 .edid-image {
@@ -16,11 +24,22 @@ body {
     object-fit: cover;
 }
 
+#licoes_aprendidas {
+    display: inline-block;
+}
+
+#licoes_a_aprender {
+    display: inline-block;
+}
+
 #rodape {
-    position: absolute; 
     bottom: 0;
     background-color: rgb(43, 134, 96);
     padding-right: 100%;
     padding-top: 40px;
     width: 100%;
+}
+
+a {
+    color: white;
 }
