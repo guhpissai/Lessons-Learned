@@ -23,15 +23,26 @@ h1 {
 }
 
 .div-section {
-    background-color: rgba(43, 134, 96, 0.521);
+    /* background-color: rgba(126, 126, 126, 0.397); */
     width: 410px;
-    border-radius: 8px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 5px 1px;
 }
 
 .edid-image {
     width: 200px;
     height: 250px;
     object-fit: cover;
+}
+
+.lado-esquerdo {
+    display: inline-block;
+    border-right:  1px black solid;
+}
+
+.lado-direito {
+    display: inline-block;
+    padding-left: 40px;
 }
 
 #rodape {
@@ -47,5 +58,6 @@ a {
 }
 
 p {
-    width: 80%;
+    width: 500px;
+    padding-right: 40px;
 }
