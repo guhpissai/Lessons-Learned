@@ -3,9 +3,27 @@ body {
     margin: auto;
 }
 
-.div-margin {
-    margin-left: 20px;
+.align-to-center {
+    align-items: center;
+    margin: auto;
+    width: 50%;
 }
+
+.align-to-center-par {
+    align-items: center;
+    margin: auto;
+    width: 825px;
+}
+
+.align-to-center-image {
+    align-items: center;
+    margin: auto;
+    width: 90%;
+}
+
+/* .div-margin {
+    margin-left: 20px;
+} */
 
 h1 {
     text-align: center;
@@ -38,15 +56,18 @@ h1 {
 .lado-esquerdo {
     display: inline-block;
     border-right:  1px black solid;
+    padding-right: 10px;
+    width: 400px;
 }
 
 .lado-direito {
     display: inline-block;
-    padding-left: 40px;
+    padding-left: 10px;
+    width: 400px;
 }
 
 #rodape {
-    position: absolute;
+    /* position: absolute; */
     bottom: 0;
     background-color: rgb(43, 134, 96);
     padding-top: 40px;
@@ -57,7 +78,3 @@ a {
     color: white;
 }
 
-p {
-    width: 500px;
-    padding-right: 40px;
-}
