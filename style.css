@@ -19,15 +19,11 @@ body {
 .align-to-center-image {
     align-items: center;
     margin: auto;
-    width: 25%;
+    width: 50%;
     text-align: center;
     margin-bottom: 25px;
     margin-top: 180px;
 }
-
-/* .div-margin {
-    margin-left: 20px;
-} */
 
 h1 {
     text-align: center;
@@ -76,14 +72,16 @@ h3 {
 .lado-esquerdo {
     display: inline-block;
     border-right:  1px black solid;
-    padding-right: 10px;
-    width: 400px;
+    padding-right: 0.4%;
+    width: 410px;
+    margin: auto;
 }
 
 .lado-direito {
     display: inline-block;
-    padding-left: 10px;
-    width: 400px;
+    /* padding-left: 1%; */
+    width: 410px;
+    margin: auto;
 }
 
 table, td, th {
