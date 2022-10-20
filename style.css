@@ -29,6 +29,7 @@ h2 {
     border-bottom: 1px black solid;
     margin-bottom: 40px;
     word-spacing: 4px;
+    line-height: normal;
 }
 
 h3 {
@@ -46,6 +47,7 @@ h3 {
 
 .div-display {
     display: inline-block;
+    line-height: 20px;
 }
 
 .div-section {
@@ -121,6 +123,7 @@ a {
 
 a {
     text-decoration: none;
+    font-size: 16px;
 }
 
 .colorLi {
