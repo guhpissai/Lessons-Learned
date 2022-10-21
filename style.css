@@ -1,131 +1,127 @@
 body {
-    background-color: rgb(253, 251, 251);
-    margin: auto;
+  background-color: rgb(253, 251, 251);
+  margin: auto;
 }
 
 .align-to-center {
-    align-items: center;
-    margin: auto;
-    width: 50%;
+  align-items: center;
+  margin: auto;
+  width: 50%;
 }
 
 .align-to-center-image {
-    align-items: center;
-    margin: auto;
-    width: 25%;
-    text-align: center;
-    margin-bottom: 25px;
-    margin-top: 180px;
+  align-items: center;
+  margin: auto;
+  width: 25%;
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 180px;
 }
 
 h1 {
-    text-align: center;
-    color: white;
-    font-family: 'Comfortaa', cursive;
-    letter-spacing: 4px;
+  text-align: center;
+  color: white;
+  font-family: Comfortaa, cursive;
+  letter-spacing: 4px;
 }
 
 h2 {
-    border-bottom: 1px black solid;
-    margin-bottom: 40px;
-    word-spacing: 4px;
-    line-height: normal;
+  border-bottom: 1px black solid;
+  margin-bottom: 40px;
+  word-spacing: 4px;
+  line-height: normal;
 }
 
 h3 {
-    display: inline;
+  display: inline;
 }
 
 #cabecalho {
-    position: fixed;
-    top: 0;
-    background-color: rgb(43, 134, 96);
-    padding: 20px;
-    width: 100%;
-    margin-bottom: 40px;
+  position: fixed;
+  top: 0;
+  background-color: rgb(43, 134, 96);
+  padding: 20px;
+  width: 100%;
+  margin-bottom: 40px;
 }
 
 .div-display {
-    display: inline-block;
-    line-height: 20px;
+  display: inline-block;
+  line-height: 20px;
 }
 
 .div-section {
-    width: 410px;
-    border-radius: 4px;
-    box-shadow: 1px 1px 5px 1px;
-    margin-bottom: 50px;
+  width: 410px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px 1px;
+  margin-bottom: 50px;
 }
 
 .edid-image {
-    width: 200px;
-    object-fit: cover;
-    border-radius: 100px;
-    border: rgb(190, 190, 190) solid;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 100px;
+  border: rgb(190, 190, 190) solid;
 }
 
 .align-to-center-par {
-    align-items: center;
-    margin: auto;
-    width: 40%;
-    margin-bottom: 40px;
+  align-items: center;
+  margin: auto;
+  width: 40%;
+  margin-bottom: 40px;
 }
 
 .lado-esquerdo {
-    display: inline-block;
-    border-right:  1px black solid;
-    width: 48%;
-    margin: auto;
+  display: inline-block;
+  border-right: 1px black solid;
+  width: 48%;
+  margin: auto;
 }
 
 .lado-direito {
-    display: inline-block;
-    width: 48%;
-    margin: auto;
+  display: inline-block;
+  width: 48%;
+  margin: auto;
 }
 
-table, td, th {
-    border: 1px solid;
+table , td , th {
+  border: 1px solid;
 }
 
 table {
-    margin: auto;
-    width: 20%;
-    border-collapse: collapse;
-    margin-bottom: 40px;
+  margin: auto;
+  width: 20%;
+  border-collapse: collapse;
+  margin-bottom: 40px;
 }
 
 #rodape {
-    /* position: absolute; */
-    bottom: 0;
-    background-color: rgb(43, 134, 96);
-    padding-top: 20px;
-    padding-bottom: 20px;
-    width: 100%;
+  bottom: 0;
+  background-color: rgb(43, 134, 96);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
 }
 
 .footer li {
-    display: inline-block;
-    width: 25%;
-    height: 50%;
+  display: inline-block;
+  width: 25%;
+  height: 50%;
 }
 
 .footerAdjust ul {
-    padding: 0;
-    margin: auto;
-    width: 50%;
-    text-align: center;
+  padding: 0;
+  margin: auto;
+  width: 50%;
+  text-align: center;
 }
 
 a {
-    color: white;
-}
-
-a {
-    text-decoration: none;
-    font-size: 16px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
 }
 
 .colorLi {
-    color: white;
+  color: white;
 }
