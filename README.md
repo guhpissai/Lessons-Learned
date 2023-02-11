@@ -1,13 +1,28 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Project Lessons Learned
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+# Contexto
+Este projeto é um portfolio criado apenas com linguagem de marcação (HTML) com o objetivo de concluir os requisitos propostos pela Trybe<p>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Técnologias usadas
+
+Front-end: 
+<ul>
+  <li>HTML5</li>
+  <li>CSS</li>
+<ul>
+
+## Executando a aplicação
+
+  ```
+  cd api/ && npm start
+  ```
+
+  ```
+  Instalar o Go live
+  ```
+
+## Para rodar todos os testes:
+
+  ```
+    npm test
+  ```
