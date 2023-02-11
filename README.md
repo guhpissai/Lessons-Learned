@@ -1,20 +1,17 @@
 # Project Lessons Learned
 
 # Contexto
-Este projeto é um portfolio criado apenas com linguagem de marcação (HTML) com o objetivo de concluir os requisitos propostos pela Trybe<p>
+Este projeto é um portfólio desenvolvido com o objetivo de demonstrar informações sobre mim, o que eu aprendi durante os primeiros blocos da Trybe e o que eu desejo aprender no futuro.
 
 ## Técnologias usadas
 
 Front-end: 
-<ul>
-  <li>HTML5</li>
-  <li>CSS</li>
-<ul>
+> Desenvolvido usando: HTML5 e CSS
 
 ## Executando a aplicação
 
   ```
-  cd api/ && npm start
+  cd src/
   ```
 
   ```
